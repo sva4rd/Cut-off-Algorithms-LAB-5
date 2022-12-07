@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>polygon.png</file>
+        <file>section.png</file>
+        <file>formatInfo.png</file>
+    </qresource>
+</RCC>
